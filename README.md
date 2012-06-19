@@ -95,7 +95,7 @@ or `send()` on the Application instance.
 You will want to setup local configuration; I recommend putting it in
 `config/autoload/module.blog.config.global.php`. As a sample:
 
-    ``` php
+``` php
     <?php
     return array(
     'blog' => array(
@@ -202,7 +202,7 @@ You will want to setup local configuration; I recommend putting it in
             ),
         )),
     ));
-    ```
+```
 
 When you run the script, it will generate files in the locations you specify in
 your configuration.
