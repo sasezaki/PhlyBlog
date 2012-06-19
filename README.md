@@ -202,6 +202,7 @@ You will want to setup local configuration; I recommend putting it in
             ),
         )),
     ));
+    ```
 
 When you run the script, it will generate files in the locations you specify in
 your configuration.
